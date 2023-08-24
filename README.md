@@ -59,7 +59,12 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 >
 ## Preview
+Look what you can make with my generator:
+
+![alt text](./lib/images/Svg_preview.png)
 ## Demo
+[click here for demo](https://drive.google.com/file/d/1TOfabL3-4HfnHjJUUxeLnjeSMOze88LZ/view)
+
 ## Resources
 I pair programmed with my friend Dirt to figure out why my .svg file was being generated without any code based off the user inputs.
 
